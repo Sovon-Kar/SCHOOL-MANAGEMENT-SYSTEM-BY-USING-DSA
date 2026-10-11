@@ -1,0 +1,62 @@
+1|Srinjoy Bhowmik|1|A
+2|Atanu Ghosh|1|A
+3|Ishan Chowdhury|1|A
+4|Soumya Das|1|A
+5|Pritam Adak|1|A
+1|Arka Rudra|2|A
+2|Sujal Bera|2|A
+3|Arijit Ghosh|2|A
+4|Sarvajit Mallick|2|A
+5|Subhajit Manna|2|A
+6|Sarthak Jhawar|2|A
+1|Anjisnu Lal Mukherjee|3|A
+2|Saket Gobindam Shaw|3|A
+3|Om Singh|3|A
+4|Kushal Yadav|3|A
+5|Amit Singh|3|A
+1|Anushka Ghosh|4|A
+2|Sandip Pal|4|A
+3|Ripon GHosh|4|A
+4|Bamaprasad Chakraborty|4|A
+5|Rounak Dasgupta|4|A
+1|Mayank Baheti|5|A
+2|Deepika Sharma|5|A
+3|Kunal Singh|5|A
+4|Ayush Prasad|5|A
+5|Karan Kumar Singh|5|A
+7|Hrinmoy Jana|5|A
+1|Aman Pratap Singh|6|A
+2|Sarvann Dutt Pandey|6|A
+3|Ankit Ray|6|A
+4|Priyangshu Pandey|6|A
+5|Neyaab-Ud-Din|6|A
+1|Devansh Jaiswal|7|A
+2|Tanusree Dutta|7|A
+3|Sanchita Pandey|7|A
+4|Soham Mukherjee|7|A
+5|Soumybrata Sahu|7|A
+1|Ayush Kumar Agarwal|8|A
+2|Kushal Agarwala|8|A
+3|Prince Kumar Shaw|8|A
+4|Shayan Dasgupta|8|A
+5|Yash Jain|8|A
+1|Lokesh Sen|9|A
+2|Moinak Ghosh|9|A
+3|Rahul Ghosh|9|A
+4|Sufia Naaz|9|A
+5|Ritika Sharma|9|A
+1|Mayank Baheti|10|A
+2|Shourya Mishra|10|A
+3|Supriyo Sen|10|A
+4|Sagnik Jana|10|A
+5|Fardeen Hussain|10|A
+1|Chirantan OJha|11|A
+2|Hritabrata Ghosh|11|A
+3|Souvagya Paul|11|A
+4|Afnan Khan|11|A
+5|Umesh Yadav|11|A
+1|Sovon Kar|12|A
+2|AritriK Mondal|12|A
+3|Monisha Kar|12|A
+4|Abhranil Bhadra|12|A
+5|Aarushi Khandelwal|12|A
